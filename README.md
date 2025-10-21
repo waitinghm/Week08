@@ -8,7 +8,7 @@
 | 7 | 8 | 7 | 768 | 117 | 0.509 | 17 | 14 | -9.7963 |159.596 |
 | 6.9 | 4 | 4 | 735 | 99 | 2.229 | 34 | 25 | -4.9559 | 100.738 |
 
-### 환경
+## 환경
 
 - ### [공공기관 기상관측 데이터](https://www.bigdata-environment.kr/user/data_market/detail.do?id=4b57e8c0-86f4-11f0-9381-499068d28df5#!)
 
@@ -34,3 +34,15 @@
 | 1540 | 2025-01-01 03:00:00 | -3.2 |   | 0.0 | 0.0 | 0.0 | 75.4 |  |  |  |  |
 | 1540 | 2025-01-01 03:10:00 | -3.1 |   | 0.0 | 0.0 | 0.0 | 74.7 |  |  |  |  |
 | 1540 | 2025-01-01 03:20:00 | -3.1 |   | 0.0 | 0.0 | 0.0 | 74.2 |  |  |  |  |
+
+
+## 환경
+
+- 도시별 평균 기온 데이터셋 [Kaggle - Daily Temperature of Major Cities](https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities)  
+
+
+| Region | Country | City | Month | Day | Year | AvgTemperature |
+| --- | --- | --- | --- | --- | --- | --- |
+| Asia | South Korea | Seoul | 5 | 13 | 2020 | 66.2 |
+| Asia | Japan | Tokyo | 5 | 13 | 2020 | 78.4 |
+
